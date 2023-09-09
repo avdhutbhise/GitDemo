@@ -6,6 +6,7 @@ import commonLibs.utils.ExcelDriver;
 
 public class TestDataProvider {
 
+	//Its used for getting data from Object Array
 	@DataProvider(name="getData")
 	public Object[][] getData()
 	{

@@ -42,6 +42,36 @@ public class LoginPageTests {
 		Assert.assertEquals(actualTitle, expectedTitle);
 	}
 	
+	@Test(dataProvider ="getData",dataProviderClass=TestDataProvider.class)
+	public void verifyLoginGit(String sUsername, String sPassword) throws Exception
+	{
+		//String sUsername="mngr509706";
+		//String sPassword="bAnyjub";
+		
+		loginPage.loginToApplication(sUsername, sPassword);
+		Thread.sleep(2000);
+		
+		String actualTitle=cmnDriver.getTitle();
+		String expectedTitle="Guru99 Bank Manager HomePage";
+		
+		Assert.assertEquals(actualTitle, expectedTitle);
+	}
+	
+	@Test(dataProvider ="getData",dataProviderClass=TestDataProvider.class)
+	public void verifyLoginGit1(String sUsername, String sPassword) throws Exception
+	{
+		//String sUsername="mngr509706";
+		//String sPassword="bAnyjub";
+		
+		loginPage.loginToApplication(sUsername, sPassword);
+		Thread.sleep(2000);
+		
+		String actualTitle=cmnDriver.getTitle();
+		String expectedTitle="Guru99 Bank Manager HomePage";
+		
+		Assert.assertEquals(actualTitle, expectedTitle);
+	}
+	
 	@AfterMethod
 	public void cleanUp() throws Exception
 	{

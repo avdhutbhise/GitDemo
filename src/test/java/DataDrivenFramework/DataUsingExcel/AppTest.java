@@ -15,6 +15,11 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        
+    	System.out.println("I am adding 1st Line");
+    	System.out.println("I am adding 2nd Line");
+    	assertTrue( true );
+        
+        
     }
 }

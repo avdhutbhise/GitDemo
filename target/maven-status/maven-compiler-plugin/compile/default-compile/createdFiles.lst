@@ -1,0 +1,4 @@
+com\pages\LoginPage.class
+com\steps\LoginStepDefinition.class
+com\steps\AddProductandCheckout.class
+com\pages\ProductsPage.class

@@ -10,7 +10,10 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
-
+	
+	<profiles>
+	<profile>
+		<id>Smoke</id>
 	<build>
 		<pluginManagement>
 			<plugins>
@@ -20,14 +23,15 @@
 					<version>3.0.0-M5</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>testng.xml</suiteXmlFile>
+							<suiteXmlFile>SmokeTestng.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
 			</plugins>
 		</pluginManagement>
 	</build>
-
+	</profile>
+	</profiles>
 
 	<dependencies>
 		<dependency>

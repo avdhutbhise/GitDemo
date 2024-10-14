@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SmokeSuite">
+  <listeners>
+	  <listener class-name="com.city.mbd.Utility.Reporting"></listener>
+  </listeners>
+  <test thread-count="5" name="SmokeTest">
+    <classes>
+      <class name="com.citi.mbd.TestCases.TC_LoginTest_001"/>
+      <class name="com.citi.mbd.TestCases.TC_InventoryTest_002"/>
+    </classes>
+  </test> <!-- SmokeTest -->
+</suite> <!-- SmokeSuite -->

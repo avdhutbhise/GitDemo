@@ -1,0 +1,136 @@
+2023-12-13 12:31:52,601 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-13 12:31:52,929 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-13 12:31:52,937 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-13 15:14:51,426 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-13 15:14:52,900 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-13 15:14:52,909 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-13 15:29:08,172 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-13 15:29:09,632 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-13 15:29:09,643 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-13 16:34:59,847 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-13 16:35:01,677 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-13 16:35:01,686 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-13 16:36:32,637 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-13 16:36:32,758 - TestEclipseMaven -INFO - Username entered
+2023-12-13 16:36:32,845 - TestEclipseMaven -INFO - Password entered
+2023-12-13 16:36:32,989 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-13 16:36:33,000 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-13 16:58:09,964 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-13 16:58:10,082 - TestEclipseMaven -INFO - Username entered
+2023-12-13 16:58:10,203 - TestEclipseMaven -INFO - Password entered
+2023-12-13 16:58:11,076 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-13 16:58:11,087 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-13 17:08:48,384 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-13 17:08:48,504 - TestEclipseMaven -INFO - Username entered
+2023-12-13 17:08:48,604 - TestEclipseMaven -INFO - Password entered
+2023-12-13 17:08:49,458 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-13 17:08:49,466 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-13 17:12:44,845 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-13 17:12:44,967 - TestEclipseMaven -INFO - Username entered
+2023-12-13 17:12:45,076 - TestEclipseMaven -INFO - Password entered
+2023-12-13 17:12:45,206 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-13 17:12:45,223 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-14 10:14:24,839 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-14 10:14:25,119 - TestEclipseMaven -INFO - Username entered
+2023-12-14 10:14:25,280 - TestEclipseMaven -INFO - Password entered
+2023-12-14 10:14:26,267 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-14 10:14:26,285 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-14 11:11:13,152 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-14 11:11:13,334 - TestEclipseMaven -INFO - Username entered
+2023-12-14 11:11:13,442 - TestEclipseMaven -INFO - Password entered
+2023-12-14 11:11:14,355 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-14 11:11:14,366 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-14 11:47:01,302 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-14 11:47:01,429 - TestEclipseMaven -INFO - Username entered
+2023-12-14 11:47:01,495 - TestEclipseMaven -INFO - Password entered
+2023-12-14 11:47:01,838 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-14 11:47:01,850 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-14 11:48:38,841 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-14 11:48:38,958 - TestEclipseMaven -INFO - Username entered
+2023-12-14 11:48:39,015 - TestEclipseMaven -INFO - Password entered
+2023-12-14 11:48:39,105 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-14 11:48:39,118 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-14 12:29:48,204 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-14 12:29:48,321 - TestEclipseMaven -INFO - Username entered
+2023-12-14 12:29:48,371 - TestEclipseMaven -INFO - Password entered
+2023-12-14 12:29:48,460 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-14 12:29:48,469 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-14 13:12:48,742 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-14 13:12:48,908 - TestEclipseMaven -INFO - Username entered
+2023-12-14 13:12:49,068 - TestEclipseMaven -INFO - Password entered
+2023-12-14 13:12:49,820 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-14 13:12:49,827 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-14 15:00:11,766 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-14 15:00:11,910 - TestEclipseMaven -INFO - Username entered
+2023-12-14 15:00:11,999 - TestEclipseMaven -INFO - Password entered
+2023-12-14 15:00:12,120 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-14 15:00:12,134 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-19 19:43:54,853 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-19 19:43:54,982 - TestEclipseMaven -INFO - Username entered
+2023-12-19 19:43:55,054 - TestEclipseMaven -INFO - Password entered
+2023-12-19 19:43:55,154 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-19 19:43:55,166 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-19 19:46:20,876 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-19 19:46:21,046 - TestEclipseMaven -INFO - Username entered
+2023-12-19 19:46:21,153 - TestEclipseMaven -INFO - Password entered
+2023-12-19 19:46:21,297 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-19 19:46:21,314 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-19 19:55:52,864 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-19 19:55:53,078 - TestEclipseMaven -INFO - Username entered
+2023-12-19 19:55:53,178 - TestEclipseMaven -INFO - Password entered
+2023-12-19 19:55:53,283 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-19 20:01:12,841 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-19 20:01:13,405 - TestEclipseMaven -INFO - Username entered
+2023-12-19 20:01:13,533 - TestEclipseMaven -INFO - Password entered
+2023-12-19 20:01:13,718 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-19 20:01:13,744 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-22 20:45:04,275 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-22 20:45:04,407 - TestEclipseMaven -INFO - Username entered
+2023-12-22 20:45:04,518 - TestEclipseMaven -INFO - Password entered
+2023-12-22 20:45:04,627 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-22 20:45:04,637 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2023-12-22 21:09:21,364 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2023-12-22 21:09:21,548 - TestEclipseMaven -INFO - Username entered
+2023-12-22 21:09:21,684 - TestEclipseMaven -INFO - Password entered
+2023-12-22 21:09:21,831 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2023-12-22 21:09:21,847 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2024-01-30 14:52:31,539 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2024-01-30 14:52:31,669 - TestEclipseMaven -INFO - Username entered
+2024-01-30 14:52:31,724 - TestEclipseMaven -INFO - Password entered
+2024-01-30 14:52:31,828 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2024-01-30 14:52:31,845 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2024-01-30 14:53:47,091 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2024-01-30 14:53:47,181 - TestEclipseMaven -INFO - Username entered
+2024-01-30 14:53:47,247 - TestEclipseMaven -INFO - Password entered
+2024-01-30 14:53:47,342 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2024-01-30 14:53:47,348 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2024-01-30 14:55:42,329 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2024-01-30 14:55:42,422 - TestEclipseMaven -INFO - Username entered
+2024-01-30 14:55:42,506 - TestEclipseMaven -INFO - Password entered
+2024-01-30 14:55:42,608 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2024-01-30 14:55:42,620 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2024-01-30 14:58:52,779 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2024-01-30 14:58:52,940 - TestEclipseMaven -INFO - Username entered
+2024-01-30 14:58:53,005 - TestEclipseMaven -INFO - Password entered
+2024-01-30 14:58:53,130 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2024-01-30 14:58:53,146 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2024-01-30 16:30:38,071 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2024-01-30 16:30:38,211 - TestEclipseMaven -INFO - Username entered
+2024-01-30 16:30:38,301 - TestEclipseMaven -INFO - Password entered
+2024-01-30 16:30:38,412 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2024-01-30 16:30:38,420 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2024-08-05 12:28:49,449 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2024-08-05 12:28:49,604 - TestEclipseMaven -INFO - Username entered
+2024-08-05 12:28:49,713 - TestEclipseMaven -INFO - Password entered
+2024-08-05 12:28:49,800 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2024-08-05 12:28:49,811 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2024-10-14 14:04:11,268 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2024-10-14 14:04:11,402 - TestEclipseMaven -INFO - Username entered
+2024-10-14 14:04:11,514 - TestEclipseMaven -INFO - Password entered
+2024-10-14 14:04:11,622 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2024-10-14 14:04:11,636 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2024-10-14 14:05:15,631 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2024-10-14 14:05:15,740 - TestEclipseMaven -INFO - Username entered
+2024-10-14 14:05:15,818 - TestEclipseMaven -INFO - Password entered
+2024-10-14 14:05:15,904 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2024-10-14 14:05:15,917 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url

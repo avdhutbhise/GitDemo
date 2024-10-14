@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SmokeSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.city.mbd.Utility.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="SmokeTest(failed)" verbose="0">
+    <classes>
+      <class name="com.citi.mbd.TestCases.TC_LoginTest_001">
+        <methods>
+          <include name="ObjectsClass"/>
+          <include name="loginTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.citi.mbd.TestCases.TC_LoginTest_001 -->
+    </classes>
+  </test> <!-- SmokeTest(failed) -->
+</suite> <!-- Failed suite [SmokeSuite] -->

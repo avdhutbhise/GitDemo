@@ -144,3 +144,8 @@
 2024-10-14 15:03:33,456 - TestEclipseMaven -INFO - Password entered
 2024-10-14 15:03:33,530 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
 2024-10-14 15:03:33,566 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url
+2024-10-14 15:39:30,431 - TestEclipseMaven -INFO - LOG MSG : URL opened successfully
+2024-10-14 15:39:30,532 - TestEclipseMaven -INFO - Username entered
+2024-10-14 15:39:30,619 - TestEclipseMaven -INFO - Password entered
+2024-10-14 15:39:30,701 - TestEclipseMaven -INFO - LOG MSG : Clicked on submit button successfully
+2024-10-14 15:39:30,708 - TestEclipseMaven -INFO - LOG MSG : Assertion passed for current url

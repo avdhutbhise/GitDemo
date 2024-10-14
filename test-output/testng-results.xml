@@ -2,34 +2,34 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-14T14:56:07 IST" name="Suite" finished-at="2024-10-14T14:56:11 IST" duration-ms="3653">
+  <suite started-at="2024-10-14T15:39:26 IST" name="SmokeSuite" finished-at="2024-10-14T15:39:30 IST" duration-ms="3946">
     <groups>
       <group name="regression">
-        <method signature="TC_LoginTest_001.loginTest()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@7e07db1f]" name="loginTest" class="com.citi.mbd.TestCases.TC_LoginTest_001"/>
+        <method signature="TC_LoginTest_001.loginTest()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@36bc55de]" name="loginTest" class="com.citi.mbd.TestCases.TC_LoginTest_001"/>
       </group> <!-- regression -->
       <group name="sanity">
-        <method signature="TC_LoginTest_001.loginTest()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@7e07db1f]" name="loginTest" class="com.citi.mbd.TestCases.TC_LoginTest_001"/>
+        <method signature="TC_LoginTest_001.loginTest()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@36bc55de]" name="loginTest" class="com.citi.mbd.TestCases.TC_LoginTest_001"/>
       </group> <!-- sanity -->
     </groups>
-    <test started-at="2024-10-14T14:56:07 IST" name="Test" finished-at="2024-10-14T14:56:11 IST" duration-ms="3653">
+    <test started-at="2024-10-14T15:39:26 IST" name="SmokeTest" finished-at="2024-10-14T15:39:30 IST" duration-ms="3946">
       <class name="com.citi.mbd.TestCases.TC_LoginTest_001">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@7e07db1f]" started-at="2024-10-14T14:56:08 IST" name="setup" finished-at="2024-10-14T14:56:10 IST" duration-ms="2506" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@36bc55de]" started-at="2024-10-14T15:39:27 IST" name="setup" finished-at="2024-10-14T15:39:29 IST" duration-ms="2677" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="ObjectsClass()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@7e07db1f]" started-at="2024-10-14T14:56:10 IST" name="ObjectsClass" finished-at="2024-10-14T14:56:10 IST" duration-ms="20" status="PASS">
+        <test-method is-config="true" signature="ObjectsClass()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@36bc55de]" started-at="2024-10-14T15:39:29 IST" name="ObjectsClass" finished-at="2024-10-14T15:39:29 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ObjectsClass -->
-        <test-method signature="loginTest()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@7e07db1f]" started-at="2024-10-14T14:56:10 IST" name="loginTest" finished-at="2024-10-14T14:56:11 IST" duration-ms="769" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@36bc55de]" started-at="2024-10-14T15:39:29 IST" name="loginTest" finished-at="2024-10-14T15:39:30 IST" duration-ms="920" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@7e07db1f]" started-at="2024-10-14T14:56:11 IST" name="tearDown" finished-at="2024-10-14T14:56:11 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@36bc55de]" started-at="2024-10-14T15:39:30 IST" name="tearDown" finished-at="2024-10-14T15:39:30 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.citi.mbd.TestCases.TC_LoginTest_001 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- SmokeTest -->
+  </suite> <!-- SmokeSuite -->
 </testng-results>

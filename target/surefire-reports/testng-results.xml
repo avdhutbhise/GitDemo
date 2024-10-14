@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-30T11:00:31Z" name="Suite" finished-at="2024-01-30T11:00:38Z" duration-ms="7004">
+  <suite started-at="2024-10-14T09:33:29Z" name="Suite" finished-at="2024-10-14T09:33:33Z" duration-ms="3723">
     <groups>
       <group name="regression">
         <method signature="TC_LoginTest_001.loginTest()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@5c1a8622]" name="loginTest" class="com.citi.mbd.TestCases.TC_LoginTest_001"/>
@@ -11,21 +11,21 @@
         <method signature="TC_LoginTest_001.loginTest()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@5c1a8622]" name="loginTest" class="com.citi.mbd.TestCases.TC_LoginTest_001"/>
       </group> <!-- sanity -->
     </groups>
-    <test started-at="2024-01-30T11:00:31Z" name="Test" finished-at="2024-01-30T11:00:38Z" duration-ms="7004">
+    <test started-at="2024-10-14T09:33:29Z" name="Test" finished-at="2024-10-14T09:33:33Z" duration-ms="3723">
       <class name="com.citi.mbd.TestCases.TC_LoginTest_001">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@5c1a8622]" started-at="2024-01-30T11:00:31Z" name="setup" finished-at="2024-01-30T11:00:37Z" duration-ms="5642" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@5c1a8622]" started-at="2024-10-14T09:33:30Z" name="setup" finished-at="2024-10-14T09:33:32Z" duration-ms="2396" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="ObjectsClass()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@5c1a8622]" started-at="2024-01-30T11:00:37Z" name="ObjectsClass" finished-at="2024-01-30T11:00:37Z" duration-ms="8" status="PASS">
+        <test-method is-config="true" signature="ObjectsClass()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@5c1a8622]" started-at="2024-10-14T09:33:32Z" name="ObjectsClass" finished-at="2024-10-14T09:33:32Z" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ObjectsClass -->
-        <test-method signature="loginTest()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@5c1a8622]" started-at="2024-01-30T11:00:37Z" name="loginTest" finished-at="2024-01-30T11:00:38Z" duration-ms="982" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@5c1a8622]" started-at="2024-10-14T09:33:32Z" name="loginTest" finished-at="2024-10-14T09:33:33Z" duration-ms="1025" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@5c1a8622]" started-at="2024-01-30T11:00:38Z" name="tearDown" finished-at="2024-01-30T11:00:38Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.citi.mbd.TestCases.TC_LoginTest_001@5c1a8622]" started-at="2024-10-14T09:33:33Z" name="tearDown" finished-at="2024-10-14T09:33:33Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
